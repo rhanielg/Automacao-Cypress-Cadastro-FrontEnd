@@ -1,0 +1,15 @@
+{
+  "name": "projeto-cypress-cadastro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rhaniel Gonçalves",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
